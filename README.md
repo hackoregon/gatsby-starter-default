@@ -5,7 +5,7 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby | Hack Oregon default starter
+  Gatsby | Hack Oregon Default Starter
 </h1>
 
 Kick off your Hack Oregon project with this default boilerplate. This starter ships with the main Gatsby configuration files (sprinkled with some Hack O magic) you might need to get up and running blazing fast with the blazing fast app generator for React.
