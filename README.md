@@ -39,7 +39,9 @@ Kick off your Hack Oregon project with this default boilerplate. This starter sh
     Open the `my-default-starter` directory in your code editor of choice and edit `src/pages/index.js`. Save your changes and the browser will update in real time!
 
 1.  **Push to GitHub and let TravisCI do the magic**
+
     Travis will need to have these variables defined:
+
     - `AWS_ACCESS_KEY_ID`: Access key of IAM site deployer (should match what was used in CloudFormation)
     - `AWS_SECRET_ACCESS_KEY`: Secret Key for user
     - `AWS_DEPLOY_BUCKET`: Bucket name to deploy files to (can be found in CloudFormation output)
